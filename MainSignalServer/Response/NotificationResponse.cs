@@ -1,7 +1,7 @@
 ﻿namespace MainSignalServer.Models;
 
-public class Notofication
+public class NotoficationResponse
 {
     public string Title { get; set; }
-    public stirng  Body { get; set; }
+    public string  Body { get; set; }
 }
